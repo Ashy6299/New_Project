@@ -14,4 +14,25 @@ console.log(Math.random());
 console.log(Math.PI);
 console.log("15" + 8 + 4);
 
+function main(){
+	console.log("i am happy to be here")
+}
+var name = {
+  firstname : "olusho",
+  lastname : "adewumi",
+  age : 45,
+	walk: function(){
+		console.log("i am happy")
+	}
+  
+  state: {
+    lagos : 1,
+    abeokuta : 2,
+},
+	myfunction : function main(){
+		console.log("i am here")
+	}
+}
+console.log(name
+			name.walk()
 
